@@ -1,0 +1,36 @@
+ #body {
+     background-color: #2eb4bf;
+     color: #fff;
+ }
+ 
+ #parent {
+     width: 50%;
+     margin: 10% auto;
+     text-align: center;
+ }
+ 
+ #url {
+     box-sizing: border-box;
+     padding: 11px;
+ }
+ 
+ input[type=submit] {
+     padding: 11px 24px;
+     background: #337ab7;
+     border: 0 none;
+     cursor: pointer;
+     color: #fff;
+     font-weight: bold;
+ }
+ 
+ .shortenedUrl a {
+     color: #fff;
+ }
+ 
+ .shortenedUrl {
+     margin-top: 13px;
+ }
+ #ShowHideDiv{
+     display: none;
+ }
+ 
